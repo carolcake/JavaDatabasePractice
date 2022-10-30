@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Feb 05 20:28:55 CST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-017e-ccdc-e3c0-0000077b72e0 
+on database directory /Users/carolinehsu/NetBeansProjects/HsuJavaDb/ForceCalc with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@de0a01f 
+Loaded from file:/Users/carolinehsu/GlassFish_Server/javadb/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.12+8-LTS-237
+user.dir=/Users/carolinehsu/NetBeansProjects/HsuJavaDb
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.15.5
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
